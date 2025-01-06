@@ -90,4 +90,4 @@ The starter code for this project was provided by the University of Toronto as p
 
 Copyright © 2024 (modifications). All rights reserved.
 The starter code is provided by the University of Toronto and is used with permission.
-This code may not be copied, modified, distributed, or used in any way without explicit permission.
+This code may not be copied, modified, or distributed in any way without explicit permission.
